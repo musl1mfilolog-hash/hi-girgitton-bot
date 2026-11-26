@@ -1,0 +1,2 @@
+hi_girgitton_bot\requirements.txt
+hi_girgitton_bot\posts.json
